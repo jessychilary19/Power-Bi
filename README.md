@@ -8,3 +8,6 @@ Descrição: Dashboard de análise de vendas para o ano de 2022, com foco no des
 Principais KPIs: Receita, Margem de Lucro, Crescimento de Vendas, etc.
 Dataset: vendas2023.csv
 Tecnologias: Power BI, DAX, Power Query, HTML e CSS
+
+https://drive.google.com/file/d/1jFmimKV9DRpUGexl98KgYwj1K4_UJnRj/view?usp=sharing
+https://drive.google.com/file/d/1SKst-iazANpX76JUXpIWVbu-4D9s_e0L/view?usp=sharing
